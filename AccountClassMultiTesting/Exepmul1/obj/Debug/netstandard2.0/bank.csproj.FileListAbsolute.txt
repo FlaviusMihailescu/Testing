@@ -1,0 +1,27 @@
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.AssemblyInfo.cs
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.deps.json
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.dll
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.pdb
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.dll
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.pdb
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.csprojAssemblyReference.cache
+E:\Scoala\Anul4\TAS\Curs 2\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.deps.json
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.dll
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.pdb
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.csprojAssemblyReference.cache
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.AssemblyInfo.cs
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.dll
+E:\Scoala\Anul4\TAS\Curs3\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.pdb
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.deps.json
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.dll
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\bin\Debug\netstandard2.0\bank.pdb
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.csprojAssemblyReference.cache
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.AssemblyInfo.cs
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.dll
+E:\Scoala\Anul4\TAS\Curs 4\Exepmul1\Exepmul1\obj\Debug\netstandard2.0\bank.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CljNjeE5rHM46pu6tXbnjVB76qj/y8ZgBERZGC8r15ffI3JNAX5OXLP1HP9z8DMTIONezxEECh6tcJYGWU/Kmg==",
+  "success": true,
+  "projectFilePath": "E:\\Scoala\\Anul4\\Semestrul 1\\TAS\\Project Final\\Homework\\AccountClassMultiTesting\\Exepmul1\\bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flavius Mihailescu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Flavius Mihailescu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Flavius Mihailescu\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
